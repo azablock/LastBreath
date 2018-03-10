@@ -1,0 +1,62 @@
+
+playerCharacter1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: true
+  xy: 1077, 29
+  size: 176, 317
+  orig: 178, 319
+  offset: 1, 1
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 713, 207
+  size: 282, 896
+  orig: 284, 898
+  offset: 1, 1
+  index: -1
+Layer 3 copy 2
+  rotate: true
+  xy: 713, 6
+  size: 199, 362
+  orig: 201, 364
+  offset: 1, 1
+  index: -1
+Layer 3 copy 3
+  rotate: true
+  xy: 1396, 33
+  size: 152, 285
+  orig: 154, 287
+  offset: 1, 1
+  index: -1
+Layer 3 copy 4
+  rotate: true
+  xy: 1611, 187
+  size: 302, 338
+  orig: 304, 340
+  offset: 1, 1
+  index: -1
+Layer 3 copy 5
+  rotate: true
+  xy: 2, 2
+  size: 79, 293
+  orig: 81, 295
+  offset: 1, 1
+  index: -1
+Layer 3 copy 6
+  rotate: true
+  xy: 1683, 53
+  size: 132, 267
+  orig: 134, 269
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 83
+  size: 709, 406
+  orig: 711, 408
+  offset: 1, 1
+  index: -1
