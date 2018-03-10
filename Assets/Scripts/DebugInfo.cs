@@ -7,9 +7,16 @@ public class DebugInfo : MonoBehaviour {
 
   public GameObject PlayerCharacter;
   public GameObject DebugInfoPanel;
-  public Text DebugInfoText; //todo jak mozna dostac sie do tego z panelu?
+
+  public Text PlayerPositionText;
+  public Text PlayerVelocityText;
+  public Text InputHorizontalAxisText;
+
+  private Rigidbody2D _playerCharacterRigidbody;
 
   private void Start() {
+    _playerCharacterRigidbody = PlayerCharacter.GetComponent<Rigidbody2D>();
+
     DebugInfoPanel.SetActive(true);
 	}
 	
@@ -22,6 +29,8 @@ public class DebugInfo : MonoBehaviour {
 	}
 
   private void UpdateDebugInfoText() {
-    DebugInfoText.text = "Position: " + PlayerCharacter.transform.position;
+    PlayerPositionText.text = "Position: " + PlayerCharacter.transform.position;
+    PlayerVelocityText.text = "Velocity: " + _playerCharacterRigidbody.velocity.magnitude;
+    InputHorizontalAxisText.text = "Input_H: " + Input.GetAxis("Horizontal");
   }
 }
