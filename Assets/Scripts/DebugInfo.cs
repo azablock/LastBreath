@@ -6,31 +6,26 @@ using UnityEngine.UI;
 public class DebugInfo : MonoBehaviour {
 
   public GameObject PlayerCharacter;
-  public GameObject DebugInfoPanel;
-
-  public Text PlayerPositionText;
-  public Text PlayerVelocityText;
-  public Text InputHorizontalAxisText;
+  public Text PlayerDataText;
 
   private Rigidbody2D _playerCharacterRigidbody;
 
   private void Start() {
     _playerCharacterRigidbody = PlayerCharacter.GetComponent<Rigidbody2D>();
-
-    DebugInfoPanel.SetActive(true);
+    gameObject.SetActive(true);
 	}
 	
 	private void Update() {
     if (Input.GetKeyDown(KeyCode.F12)) {
-      DebugInfoPanel.SetActive(!DebugInfoPanel.activeSelf);
+      gameObject.SetActive(!gameObject.activeSelf);
     }
 
     UpdateDebugInfoText();
 	}
 
   private void UpdateDebugInfoText() {
-    PlayerPositionText.text = "Position: " + PlayerCharacter.transform.position;
-    PlayerVelocityText.text = "Velocity: " + _playerCharacterRigidbody.velocity.magnitude;
-    InputHorizontalAxisText.text = "Input_H: " + Input.GetAxis("Horizontal");
+    PlayerDataText.text = "Position: " + PlayerCharacter.transform.position;
+    PlayerDataText.text += "Velocity: " + _playerCharacterRigidbody.velocity.magnitude;
+    PlayerDataText.text = "Input_H: " + Input.GetAxis("Horizontal");
   }
 }
