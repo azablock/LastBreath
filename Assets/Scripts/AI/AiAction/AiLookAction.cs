@@ -5,6 +5,6 @@ using System.Collections;
 public class AiLookAction : AiAction {
 
   public override void Act(AiStateController controller) {
-    Debug.Log("Looking");
+    //todo
   }
 }
