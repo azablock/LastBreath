@@ -5,7 +5,7 @@ using UnityEngine;
 public class WaterLevelController : MonoBehaviour {
 
   public float MaximumWaterLevel;
-  private float _waterLevel;
+  public float _waterLevel;
   public float WaterLevelDelta;
   public float BaseWaterLevelDelta; //todo refactor
 
@@ -18,7 +18,11 @@ public class WaterLevelController : MonoBehaviour {
 	
 	private void Update() {
 		//todo refactor
-    _waterLevel += WaterLevelDelta;
+    if(_waterLevel <= MaximumWaterLevel && _waterLevel > 0.0f)
+      _waterLevel += WaterLevelDelta;
+
+    if (_waterLevel > MaximumWaterLevel)
+      _waterLevel = MaximumWaterLevel;
 	}
 
   public float WaterLevel() {
