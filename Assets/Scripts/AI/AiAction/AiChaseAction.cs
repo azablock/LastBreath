@@ -12,7 +12,5 @@ public class AiChaseAction : AiAction {
     );
 
     controller.transform.position = newPosition;
-
-    Debug.Log("Chasing");
   }
 }
