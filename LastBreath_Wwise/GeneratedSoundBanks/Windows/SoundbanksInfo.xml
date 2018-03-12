@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1866025847" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footstep</ObjectPath>
+			<ShortName>Footstep</ShortName>
+			<Path>Footstep.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1602358412" Name="Play_Footstep" ObjectPath="\Events\Default Work Unit\Play_Footstep"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="577629028" Language="SFX">
+					<ShortName>footstep_2.wav</ShortName>
+					<Path>SFX\footstep_2_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

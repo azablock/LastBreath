@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1602358412	Play_Footstep			\Default Work Unit\Play_Footstep	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1866025847	Footstep			\Default Work Unit\Footstep	
+
+Switch	ID	Name	Switch Group			Notes
+	2223364641	Default_Footstep	Footstep			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	577629028	footstep_1	C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\.cache\Windows\SFX\footstep_2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footstep\Footstep\footstep_1		50700
+

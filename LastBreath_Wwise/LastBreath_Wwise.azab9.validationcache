@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ValidationCache Version="1" SchemaVersion="80">
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2555531852" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Attenuations\Default Work Unit.wwu" DateLow="2556694607" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="2556504469" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="2556414524" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="2556224275" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2756580006" DateHigh="30635065"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2557074876" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Effects\Default Work Unit.wwu" DateLow="2556889728" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Effects\Factory Effects.wwu" DateLow="2756785157" DateHigh="30635065"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Events\Default Work Unit.wwu" DateLow="2555220788" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="2556789677" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2556029249" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\LastBreath_Wwise.wproj" DateLow="2554994995" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2555115558" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="2555839119" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Modulators\Default Work Unit.wwu" DateLow="2556319462" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Presets\Default Work Unit.wwu" DateLow="2555728907" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Queries\Default Work Unit.wwu" DateLow="2555929068" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Queries\Factory Queries.wwu" DateLow="2757010318" DateHigh="30635065"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="2555426898" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2556979791" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\States\Default Work Unit.wwu" DateLow="2555330882" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Switches\Default Work Unit.wwu" DateLow="2555638867" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Triggers\Default Work Unit.wwu" DateLow="2556124188" DateHigh="30652983"/>
-	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="2556594675" DateHigh="30652983"/>
+<ValidationCache Version="1" SchemaVersion="85">
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Effects\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Effects\Factory Effects.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Events\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\LastBreath_Wwise.azab9.wsettings" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\LastBreath_Wwise.wproj" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Modulators\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Presets\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Queries\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Queries\Factory Queries.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\States\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Switches\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Triggers\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\azab9\Documents\Unity Projects\LastBreath\LastBreath_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1520889001" DateHigh="0"/>
 </ValidationCache>
